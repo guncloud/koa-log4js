@@ -1,5 +1,5 @@
 {
-  "name": "koa-log4",
+  "name": "koa-log4-gc",
   "version": "2.4.0",
   "description": "log4js-node support Koa-middleware",
   "main": "index.js",
