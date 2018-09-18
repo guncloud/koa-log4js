@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominhhai/koa-log4js.git"
+    "url": "git+https://github.com/guncloud/koa-log4js.git"
   },
   "keywords": [
     "log4js",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dominhhai/koa-log4js#readme",
   "dependencies": {
-    "log4js": "^2.3.12"
+    "log4js": "latest"
   },
   "devDependencies": {
     "standard": "^8.5.0"
